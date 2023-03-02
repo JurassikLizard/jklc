@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.ld": "json",
+        "*.config": "makefile",
+        "iostream": "cpp"
+    }
+}

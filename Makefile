@@ -1,4 +1,4 @@
-SOURCES := src/compiler.cpp
+SOURCES := src/compiler.cpp src/lexer.cpp
 # Objs are all the sources, with .cpp replaced by .o
 OBJS := $(SOURCES:.cpp=.o)
 
